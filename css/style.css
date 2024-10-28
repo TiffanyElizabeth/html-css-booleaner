@@ -50,3 +50,25 @@ header {
 .body-text {
     font-size: 15.15px;
 }
+
+#monitor {
+    background-image: url(../img/monitor.jpg)
+}
+
+#graph {
+    background-image: url(../img/graph.jpg)
+}
+
+.box-img {
+    width:312px;
+    height:208px;
+    color: #fff;
+    font-size:16px;
+}
+
+.box-imgg {
+    width:312px;
+    height:208px;
+    color: #fff;
+    font-size:20px;
+}
