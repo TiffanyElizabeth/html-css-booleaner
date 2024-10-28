@@ -1,11 +1,25 @@
 header {
     background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
-    background-size: 40%;
+    background-size: 31%;
     background-repeat: repeat-x;
     height: 120px;
 }
 
 .logo {
-    height: 50px;
+    height: 60px;
+}
+
+.author-credit {
+    font-size: 16px;
+    color: #808080;
+}
+
+.author-link {
+    font-size: 16px;
+    color: #20A9E5;
+}
+
+.date {
+    color: #808080;
 }
