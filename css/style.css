@@ -27,3 +27,26 @@ header {
 .captions {
     color:black;
 }
+
+.table {
+    table-layout:fixed;
+    border-collapse:collapse;
+    text-align: left;
+}
+
+.table-header {
+    background-color: #20A9E5;
+    color: white;
+}
+
+.table-body {
+    background-color: #b1e5f2;
+}
+
+.cell-bigger {
+    width:60%
+}
+
+.body-text {
+    font-size: 15.15px;
+}
