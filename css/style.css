@@ -65,6 +65,7 @@ header {
 }
 
 .box-img {
+    background-size: cover;
     width:312px;
     height:208px;
     color: #fff;
@@ -72,6 +73,7 @@ header {
 }
 
 .box-imgg {
+    background-size: cover;
     width:312px;
     height:208px;
     color: #fff;
