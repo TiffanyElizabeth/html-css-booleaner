@@ -10,6 +10,10 @@ header {
     height: 60px;
 }
 
+.h1{
+    font-size: 38px;
+}
+
 .author-credit {
     font-size: 16px;
     color: #808080;
